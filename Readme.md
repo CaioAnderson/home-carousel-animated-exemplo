@@ -1,1 +1,0 @@
-### home-carousel-animated-exemplo
